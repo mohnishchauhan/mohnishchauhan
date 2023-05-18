@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **blockchain**
 
-- 🤝 I’m looking for help with **blockchain software developer job**
+- 🤝 I’m looking for **blockchain software developer job**
 
 - 💬 Ask me about **html,css,js,dsa**
 
